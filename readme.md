@@ -12,7 +12,7 @@ however that could be changed in the future.
 
 ## Installation
 
-`composer require underpin/compiler`
+`composer require underpin/compiler --dev`
 
 ## Usage
 
