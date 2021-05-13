@@ -1,0 +1,12 @@
+{
+    "name": "underpin/compiler",
+    "description": "Compiles Underpin dependencies so it can be used in a packaged WordPress plugin or theme.",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Alex Standiford",
+            "email": "a@alexstandiford.com"
+        }
+    ],
+    "require": {}
+}
