@@ -1,6 +1,7 @@
 {
     "name": "underpin/compiler",
     "description": "Compiles Underpin dependencies so it can be used in a packaged WordPress plugin or theme.",
+    "bin": ["bin/package-underpin.php"],
     "license": "GPL-2.0-or-later",
     "authors": [
         {
